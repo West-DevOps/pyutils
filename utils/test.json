@@ -1,0 +1,8 @@
+{
+  "nested": {
+    "valuea":  "string1",
+    "valueb":  23
+  },
+  "number": 1234,
+  "string": "string"
+}
